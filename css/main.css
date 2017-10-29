@@ -1,0 +1,38 @@
+h3{
+	color: #d9534f;
+}
+#top .top-content .navbar-brand{
+	font-size: 24px;
+	float: left;
+}
+#top .top-content .navbar{
+	border-radius: 0;
+	margin-bottom: 0;
+}
+#top .top-content .navbar h3{
+	color: #FFFFFF;
+	float: left;
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+#top .top-content .navbar .btn{
+	float: right;
+}
+#content .img-circle{
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+#content{
+	background-color: #dee3e8;
+}
+#content .img-circle{
+	display: block;
+	margin-top: 50px;
+}
+#content .container{
+	background-color: #FFFFFF;
+	margin-top:-100px;
+}
